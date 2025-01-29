@@ -25,7 +25,7 @@ The CPPS Simulation demonstrates key concepts in modern production systems, incl
 ### Running Locally
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/CPPS_simulation.git
+   git clone https://github.com/bforbilal2003/Qualsec.git
    ```
 2. Navigate to the project directory:
    ```bash
@@ -46,14 +46,13 @@ The CPPS Simulation demonstrates key concepts in modern production systems, incl
 2. Run the system simulation.
 3. Visualize sensor outputs and analyze the system's performance.
 
-## 🤝 Contributions
-Contributions are welcome! Feel free to fork the repository, create issues, or submit pull requests.
+
 
 ## 📜 License
 This project is licensed under the MIT License. See the `LICENSE` file for more details.
 
 ## 📧 Contact
-For any inquiries, please reach out at [your.email@example.com](mailto:your.email@example.com).
+For any inquiries, please reach out at [bilal.aslam.338658@gmail.com](mailto:bilal.aslam.338658@gmail.com).
 
 Happy Simulating! 🎉
 
