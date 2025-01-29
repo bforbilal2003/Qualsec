@@ -53,6 +53,7 @@ This project is licensed under the MIT License. See the `LICENSE` file for more 
 
 ## 📧 Contact
 For any inquiries, please reach out at [bilal.aslam.338658@gmail.com](mailto:bilal.aslam.338658@gmail.com).
+or visit my website https://bilalaslam.netlify.app/
 
 Happy Simulating! 🎉
 
